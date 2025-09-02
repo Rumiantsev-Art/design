@@ -7,3 +7,5 @@
 ###  Тестирование формы регистрации
 [Тестирование фильтрации и сортировки]( https://docs.google.com/spreadsheets/d/1VOxvlODWiimYaKliulXRC5mZZ4fweu_4IU1AEJPAF_I/edit?usp=sharing)
  
+###  Диаграмма переходов и состояний, таблица принятия решений, предугадывание ошибок
+[Тестирование модуля оплаты Paypal](https://docs.google.com/spreadsheets/d/1gpmYakEh7G4aVQsLsXMajL59UufBLDBZqy3R6CBJ87g/edit?usp=sharing)
